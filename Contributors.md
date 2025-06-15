@@ -1,4 +1,5 @@
 # Contributors
+- [Akula Vasuteja](https://github.com/vastvasu143) Hurrah!! This is my first open source contribution made on 16/06/2025.
 - [Mathues Justin Hasda](https://github.com/hasdajustin) Hello World! This is my first contribution to open source!
 - [Soham Padalikar](https://github.com/Soham204) Hello World
 - [Anurag Raut](https://github.com/anurag-raut1) First Contribution...
